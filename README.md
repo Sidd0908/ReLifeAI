@@ -6,16 +6,20 @@
 
 Transforming product lifecycle management with AI-driven sustainability insights, intelligent product analysis, and circular economy recommendations.
 
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Rekognition-orange?style=for-the-badge&logo=amazonaws)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-ReLifeAI-blue?style=for-the-badge)](https://re-life-ai.vercel.app/)
+
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge\&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Rekognition-orange?style=for-the-badge\&logo=amazonaws)
 
 ---
 
 ### 🚀 Amazon HackOn 6.0 Project
 
 *Enabling smarter decisions for sustainable commerce through AI.*
+
+**🌐 Live Demo:** https://re-life-ai.vercel.app/
 
 </div>
 
@@ -27,10 +31,10 @@ Millions of products are discarded every year despite having significant reuse, 
 
 Businesses often lack:
 
-- Product lifecycle visibility
-- Sustainability impact analysis
-- Circular economy recommendations
-- Automated product intelligence
+* Product lifecycle visibility
+* Sustainability impact analysis
+* Circular economy recommendations
+* Automated product intelligence
 
 ReLifeAI solves this by leveraging AI and AWS services to analyze products and recommend the most sustainable lifecycle path.
 
@@ -42,10 +46,10 @@ ReLifeAI solves this by leveraging AI and AWS services to analyze products and r
 
 Analyze products using AI-powered insights:
 
-- Product identification
-- Category detection
-- Condition assessment
-- Lifecycle evaluation
+* Product identification
+* Category detection
+* Condition assessment
+* Lifecycle evaluation
 
 ---
 
@@ -53,11 +57,11 @@ Analyze products using AI-powered insights:
 
 Generate intelligent decisions such as:
 
-- Reuse
-- Refurbish
-- Repair
-- Recycle
-- Resell
+* Reuse
+* Refurbish
+* Repair
+* Recycle
+* Resell
 
 Based on sustainability impact and product condition.
 
@@ -67,10 +71,10 @@ Based on sustainability impact and product condition.
 
 Track:
 
-- Carbon footprint reduction
-- Waste diversion impact
-- Resource savings
-- Circularity metrics
+* Carbon footprint reduction
+* Waste diversion impact
+* Resource savings
+* Circularity metrics
 
 ---
 
@@ -78,10 +82,10 @@ Track:
 
 Beautiful analytics dashboard featuring:
 
-- Sustainability KPIs
-- Lifecycle trends
-- Product intelligence insights
-- Environmental impact tracking
+* Sustainability KPIs
+* Lifecycle trends
+* Product intelligence insights
+* Environmental impact tracking
 
 ---
 
@@ -89,9 +93,9 @@ Beautiful analytics dashboard featuring:
 
 Powered by:
 
-- Amazon Bedrock
-- Amazon Rekognition
-- Custom lifecycle intelligence models
+* Amazon Bedrock
+* Amazon Rekognition
+* Custom lifecycle intelligence models
 
 ---
 
@@ -123,24 +127,24 @@ Powered by:
 
 ## Frontend
 
-- React
-- TypeScript
-- Vite
-- TailwindCSS
-- Framer Motion
-- Lucide Icons
+* React
+* TypeScript
+* Vite
+* TailwindCSS
+* Framer Motion
+* Lucide Icons
 
 ## Backend
 
-- Node.js
-- Express.js
-- TypeScript
+* Node.js
+* Express.js
+* TypeScript
 
 ## AWS Services
 
-- Amazon Bedrock
-- Amazon Rekognition
-- Amazon S3
+* Amazon Bedrock
+* Amazon Rekognition
+* Amazon S3
 
 ---
 
@@ -170,6 +174,14 @@ ReLifeAI
 ---
 
 # 🚀 Getting Started
+
+## 🌐 Try the Live Demo
+
+Experience ReLifeAI directly:
+
+**[🚀 Launch ReLifeAI](https://re-life-ai.vercel.app/)**
+
+---
 
 ## Clone Repository
 
@@ -236,11 +248,11 @@ npm run dev
 
 # 📈 Future Enhancements
 
-- Blockchain-based Product Passport
-- Carbon Credit Tracking
-- Supply Chain Transparency
-- Marketplace Integration
-- Predictive Lifecycle Intelligence
+* Blockchain-based Product Passport
+* Carbon Credit Tracking
+* Supply Chain Transparency
+* Marketplace Integration
+* Predictive Lifecycle Intelligence
 
 ---
 
@@ -250,24 +262,24 @@ npm run dev
 
 ### Backend Development & AI Services
 
-- API Development
-- AWS Integration
-- Product Intelligence Engine
-- Sustainability Analytics
+* API Development
+* AWS Integration
+* Product Intelligence Engine
+* Sustainability Analytics
 
 GitHub:
 https://github.com/TheSiddharthmina
 
 ---
 
-## Swati Shekh
+## Swati Shekhawat
 
 ### Frontend Development & UI/UX
 
-- React Frontend
-- Dashboard Design
-- User Experience
-- Data Visualization
+* React Frontend
+* Dashboard Design
+* User Experience
+* Data Visualization
 
 GitHub:
 https://github.com/Swatii2810
@@ -284,8 +296,8 @@ Built with innovation, sustainability, and AI at its core.
 
 <div align="center">
 
-### ♻️ ReLifeAI
+### 🚀 Try ReLifeAI
 
-AI for Circular Commerce
+**[Launch Live Demo →](https://re-life-ai.vercel.app/)**
 
 </div>
